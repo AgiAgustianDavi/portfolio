@@ -1,0 +1,9 @@
+section {
+    padding-top: 4.7rem;
+    padding-bottom: 4.7rem;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+    color: #ffc107;
+    font-weight: bold;
+}
